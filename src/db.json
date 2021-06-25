@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "title":"aliens",
+        "director":"Steven Spielberg",
+        "year":1986,
+        "rating":"8.5"
+    },
+    {
+        "id":2,
+        "title":"The Dark Knight",
+        "director":"Christopher Nolan",
+        "year":2008,
+        "rating":"9.5"
+    },
+    {
+        "id":3,
+        "title":"aliens2",
+        "director":"Stanley Gill Spielberg",
+        "year":1986,
+        "rating":"8.5"
+    }
+]
